@@ -13,5 +13,3 @@
 [spike falsa](https://br.shp.ee/GiMv99F)
 ### tipografia
 [google fonts](https://fonts.google.com/share?selection.family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900)
-### imagens
-[icons-icons](https://www.google.com/url?sa=i&url=https%3A%2F%2Funiversidadedointercambio.com.br%2Fteste-memes-de-gato-area-de-estudo%2F&psig=AOvVaw1NREKAXoXXKJbp1NQpq_BI&ust=1731625687981000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiWwe222okDFQAAAAAdAAAAABAE)
